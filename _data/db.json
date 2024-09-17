@@ -1,0 +1,39 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix the footer links please",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "9a9b",
+      "title": "ticket",
+      "body": "my ticket is very high priotity, heeeeeeelp me!",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "1d4c",
+      "title": "my little ticket",
+      "body": "ticket",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "da74",
+      "title": "this is a ticket with a very low priortiasmnbda",
+      "body": "kajsbdkbasd",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "b608",
+      "title": "my priority",
+      "body": "akemiajsksajfnas\naskjabsf\nasflkanslfa\nsfasjbfalçsç~f4as\nfansfçlasf\nas~faksjfnalsç\nasfasnkfalsmf\nasfnalskçfnlaçs~f\nas~çfaçslfma~çsf",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev"
+    }
+  ]
+}
